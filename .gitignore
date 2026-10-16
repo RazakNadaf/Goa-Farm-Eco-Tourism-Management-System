@@ -1,7 +1,0 @@
-bin/
-*.class
-
-# IDE and Editor files
-.vscode/
-.idea/
-*.log
